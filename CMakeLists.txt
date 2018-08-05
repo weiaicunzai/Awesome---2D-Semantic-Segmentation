@@ -28,3 +28,18 @@ target_link_libraries(Listing2.6 pthread)
 
 add_executable(Listing2.7 ../ch02/Listing2.7.cpp)
 target_link_libraries(Listing2.7 pthread)
+
+add_executable(Listing2.8 ../ch02/Listing2.8.cpp)
+target_link_libraries(Listing2.8 pthread)
+
+add_executable(Listing3.1 ../ch03/Listing3.1.cpp)
+target_link_libraries(Listing3.1 pthread)
+
+add_executable(Listing3.2 ../ch03/Listing3.2.cpp)
+target_link_libraries(Listing3.2 pthread)
+
+add_executable(Listing3.3 ../ch03/Listing3.3.cpp)
+target_link_libraries(Listing3.3 pthread)
+
+add_executable(Listing3.4 ../ch03/Listing3.4.cpp)
+target_link_libraries(Listing3.4 pthread)
