@@ -1,7 +1,6 @@
-# CPP_Concurrency_In_Action
+# Awesome - Semantic Segmentation
 
-Practice on book [C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action), code is
-not the same as it was in the book, I modified the example source code to my own understanding.
+A curated list of deep learning semantic segmentation papers and codes.
 
 ## Usage
 
