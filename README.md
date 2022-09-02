@@ -62,7 +62,7 @@ Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik
 
 
 
-## Chanllenge: How to capturing multi-scale context
+## Chanllenge: How to capturing multi-scale context (or multi-scale objects features)
 
 ### DeepLab-CRF 
 TPAMI
@@ -70,3 +70,10 @@ TPAMI
 **DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs**
 Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, Alan L. Yuille
 - pdf: [https://arxiv.org/abs/1606.00915](https://arxiv.org/abs/1606.00915)
+
+### FoveaNet
+ICCV
+2017
+Xin Li, Zequn Jie, Wei Wang, Changsong Liu, Jimei Yang
+**FoveaNet: Perspective-aware Urban Scene Parsing**
+- pdf: [https://arxiv.org/abs/1708.02421](https://arxiv.org/abs/1708.02421)
