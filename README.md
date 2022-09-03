@@ -36,6 +36,13 @@ CVPR
 Chao Peng  Xiangyu Zhang  Gang Yu  Guiming Luo   Jian Sun
 - pdf: [https://arxiv.org/abs/1703.02719](https://arxiv.org/abs/1703.02719)
 
+### PSPNet
+CVPR
+2017
+**Pyramid Scene Parsing Network**
+Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia
+- pdf: [https://arxiv.org/abs/1612.01105?imageView2/2/w/700](https://arxiv.org/abs/1612.01105?imageView2/2/w/700)
+
 
 ## Chanllenge: Reduced localization accuracy due to DCNN invariance (losing much of the finer image structure).
 
