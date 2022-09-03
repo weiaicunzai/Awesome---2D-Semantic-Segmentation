@@ -29,6 +29,13 @@ MICCAI
 Olaf Ronneberger, Philipp Fischer, and Thomas Brox
 - pdf: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 
+### GCN
+CVPR
+2017
+**Large Kernel Matters ——Improve Semantic Segmentation by Global Convolutional Network**
+Chao Peng  Xiangyu Zhang  Gang Yu  Guiming Luo   Jian Sun
+- pdf: [https://arxiv.org/abs/1703.02719](https://arxiv.org/abs/1703.02719)
+
 
 ## Chanllenge: Reduced localization accuracy due to DCNN invariance (losing much of the finer image structure).
 
@@ -53,13 +60,20 @@ ICCV
 Hyeonwoo Noh, Seunghoon Hong, Bohyung Han
 - pdf: [https://arxiv.org/abs/1505.04366](https://arxiv.org/abs/1505.04366)
 
-### 
+### Hypercolumns
 CVPR
 2015
 **Hypercolumns for Object Segmentation and Fine-grained Localization**
 Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik
 - pdf: [https://arxiv.org/abs/1411.5752](https://arxiv.org/abs/1411.5752)
 
+
+### DUC-HDC 
+WACV
+2018
+**Understanding Convolution for Semantic Segmentation**
+Panqu Wang, Pengfei Chen, Ye Yuan, Ding Liu, Zehua Huang, Xiaodi Hou, Garrison Cottrell
+- pdf: [https://arxiv.org/abs/1702.08502](https://arxiv.org/abs/1702.08502)
 
 
 ## Chanllenge: How to capturing multi-scale context (or multi-scale objects features)
