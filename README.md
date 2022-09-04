@@ -5,12 +5,6 @@ Papers are classified into various categlories.
 
 
 ## General Semantic Segmentation
-### FCN
-**Fully Convolutional Networks for Semantic Segmentation**
-CVPR
-2015
-Jonathan Long∗ Evan Shelhamer∗ Trevor Darrell
-- pdf: [https://arxiv.org/abs/1411.4038](https://arxiv.org/abs/1411.4038)
 
 
 ## Chanllenge: How to effectively Aggregate Global Conext (large receptive fields)
@@ -22,12 +16,6 @@ arXiv
 Jonathan Long∗ Evan Shelhamer∗ Trevor Darrell
 - pdf: [https://arxiv.org/abs/1411.4038](https://arxiv.org/abs/1411.4038)
 
-### UNet
-MICCAI
-2016
-**U-Net: Convolutional Networks for BiomedicalImage Segmentation**
-Olaf Ronneberger, Philipp Fischer, and Thomas Brox
-- pdf: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 
 ### GCN
 CVPR
@@ -44,7 +32,15 @@ Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia
 - pdf: [https://arxiv.org/abs/1612.01105?imageView2/2/w/700](https://arxiv.org/abs/1612.01105?imageView2/2/w/700)
 
 
-## Chanllenge: Reduced localization accuracy due to DCNN invariance (losing much of the finer image structure).
+<!-- ## Chanllenge: Reduced localization accuracy due to DCNN invariance (losing much of the finer image structure). -->
+## Chanllenge: How to recover the reduced spatial information caused by consecutive pooling operator or convolution with stride
+
+### FCN
+**Fully Convolutional Networks for Semantic Segmentation**
+CVPR
+2015
+Jonathan Long∗ Evan Shelhamer∗ Trevor Darrell
+- pdf: [https://arxiv.org/abs/1411.4038](https://arxiv.org/abs/1411.4038)
 
 ### SegNet
 TPAMI
@@ -52,6 +48,13 @@ TPAMI
 **SegNet: A Deep Convolutional Encoder-DecoderArchitecture for Image Segmentation**
 Vijay Badrinarayanan, Alex Kendall, and Roberto Cipolla
 - pdf: [https://arxiv.org/abs/1511.00561](https://arxiv.org/abs/1511.00561)
+
+### UNet
+MICCAI
+2016
+**U-Net: Convolutional Networks for BiomedicalImage Segmentation**
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox
+- pdf: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 
 ### RefineNet
 CVPR
@@ -98,3 +101,25 @@ ICCV
 Xin Li, Zequn Jie, Wei Wang, Changsong Liu, Jimei Yang
 **FoveaNet: Perspective-aware Urban Scene Parsing**
 - pdf: [https://arxiv.org/abs/1708.02421](https://arxiv.org/abs/1708.02421)
+
+
+## Chanllenge: Intra-class inconsis-tency and inter-class indistinction
+CVPR
+2018
+Changqian Yu, Jingbo Wang, Chao Peng, Changxin Gao, Gang Yu, Nong Sang
+**Learning a Discriminative Feature Network for Semantic Segmentation**
+- pdf: [https://arxiv.org/abs/1804.09337](https://arxiv.org/abs/1804.09337)
+
+
+
+
+
+
+
+<!-- ##  Real time segmentation
+### BiSeNet
+ECCV
+2018
+BiSeNet: Bilateral Segmentation Network forReal-time Semantic Segmentation
+
+ENET:   A  DEEPNEURALNETWORKARCHITECTUREFORREAL-TIMESEMANTICSEGMENTATION -->
